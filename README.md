@@ -6,6 +6,7 @@
   - ALWAYS in the HomeLab ;)
 - 🌱 I’m currently learning:
   - CI/CD principles and DevOps philosophy
+  - Agentic AI Fundamentals (practical IT automation)
   - Cloud administration
   - Secure coding
 - 👯 I’m looking to collaborate on:
