@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+### Languages
+![](https://img.shields.io/static/v1?label=Code&message=PowerShell&color=00c6ff&style=for-the-badge&logo=powershell)
+### Shells
+![](https://img.shields.io/static/v1?label=Shell&message=pwsh&color=00c6ff&style=for-the-badge&logo=shell)
+### Editors
+![](https://img.shields.io/static/v1?label=Editor&message=VS%20Code&color=00c6ff&style=for-the-badge&logo=visual-studio-code)
+### Tools
+![](https://img.shields.io/static/v1?label=Tools&message=Docker&color=00c6ff&style=for-the-badge&logo=docker)
+![](https://img.shields.io/static/v1?label=Tools&message=Ansible&color=00c6ff&style=for-the-badge&logo=ansible)
+![](https://img.shields.io/static/v1?label=Tools&message=GitHub%20Actions&color=00c6ff&style=for-the-badge&logo=github)
 - 🔭 I’m currently working on:
   - Repeatable CI/CD deployments of CyberArk environments (AWS/Azure/GCP)
   - Personal AI stack (repurposed gaming PC for GPU) to run agentic workflows and augment learning while maintaining privacy
